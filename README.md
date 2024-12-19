@@ -5,7 +5,7 @@ CampPlanner is a web application that allows users to manage campgrounds and tou
 
 ## Installation Instructions
 
-1. Clone the repository: `git clone https://github.com/TeekshaHarish/CampPlanner.git`
+1. Clone the repository: `git clone https://github.com/Siddhi0135/camp-planner.git`
 2. Navigate to the project directory: `cd CampPlanner`
 3. Install the dependencies: `npm install`
 4. Set up environment variables. Create a `.env` file in the root of the project and define the following variables: MONGO_URI=<your_mongodb_connection_string>
